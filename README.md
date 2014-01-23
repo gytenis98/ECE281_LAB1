@@ -8,6 +8,5 @@ ECE281_LAB1
 
 ![alt text](http://i43.tinypic.com/skxa2u.jpg "Logo Title Text 1")
 
-I think my SOP and schematic was correct because I checked it several times and got the same result all the time. 
-VHDL looks correct but for unknown reason it does not pass "testbench".
+I think my waveforms are correct because they look the same as in my truth table.
 
