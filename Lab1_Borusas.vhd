@@ -36,12 +36,12 @@ entity Lab1_Borusas is
            X : out  STD_LOGIC;
            Y : out  STD_LOGIC;
            Z : out  STD_LOGIC);
+			  
 end Lab1_Borusas;
 
 architecture Behavioral of Lab1_Borusas is 
 
-signal name1 : std_logic; 
-signal name2 : std_logic_vector;
+signal A_NOT , B_NOT , C_NOT , H , G , F , E , D : std_logic; 
 
 begin
 
