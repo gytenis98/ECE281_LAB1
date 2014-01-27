@@ -10,3 +10,4 @@ ECE281_LAB1
 
 I think my waveforms are correct because they look the same as in my truth table. Also Profesor checked it so it CAN'T be wrong.
 
+Capt Silva checked my board work Friday (24 Jan).
